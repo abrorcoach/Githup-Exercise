@@ -10,6 +10,8 @@
 
             string text = "doston";
             Console.WriteLine(text);
+
+            Console.WriteLine(num/num2);
         }
     }
 }

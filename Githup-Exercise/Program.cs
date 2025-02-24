@@ -36,6 +36,10 @@
 
             Console.WriteLine("This Lexture theme is 'Work with Git Hub'");
 
+            string text1 = "Abror";
+            string opt = text1.Substring(1,3);
+            Console.WriteLine(opt);
+
             
         }
     }

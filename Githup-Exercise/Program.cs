@@ -27,6 +27,9 @@
                 }
             }
 
+            int res = 32;
+            Console.WriteLine(Math.Pow(res,2));
+
             
         }
     }

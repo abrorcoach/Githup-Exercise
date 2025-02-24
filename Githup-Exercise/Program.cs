@@ -16,6 +16,18 @@
             num = 40;
             num2 = 50;
             Console.WriteLine(num2-num);
+
+            int[] number = { 11, 32, 12, 32, 12 };
+
+            for (int i = 0; i < number.Length; i++)
+            {
+                if(number[i] % 2 == 1)
+                {
+                    Console.WriteLine(number[i]);
+                }
+            }
+
+            
         }
     }
 }

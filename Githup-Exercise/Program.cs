@@ -12,6 +12,10 @@
             Console.WriteLine(text);
 
             Console.WriteLine(num/num2);
+
+            num = 40;
+            num2 = 50;
+            Console.WriteLine(num2-num);
         }
     }
 }

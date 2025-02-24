@@ -7,6 +7,9 @@
             int num = 20;
             int num2 = 10;
             Console.WriteLine(num+num2);
+
+            string text = "doston";
+            Console.WriteLine(text);
         }
     }
 }
